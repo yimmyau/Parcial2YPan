@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharp\\Parcial2YPan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\frmagregarymodificarmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\frmagregarymodificarmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\ecuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\ecuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|c:\\csharp\\parcial2ypan\\parcial2ypan\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\frmagregarymodificarmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\frmagregarymodificarmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\frmconsultarmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\frmconsultarmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\logeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\logeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\frmconsultarmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\frmconsultarmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\controlespersonalizados\\botonredondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\controlespersonalizados\\botonredondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\controlespersonalizados\\botonredondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\controlespersonalizados\\botonredondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\frmagregarymodificarmed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\frmagregarymodificarmed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\controlespersonalizados\\togglebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\controlespersonalizados\\togglebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\frmconsultarmed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\frmconsultarmed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\config\\configdb.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\config\\configdb.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|C:\\CSharp\\Parcial2YPan\\parcial2ypan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{05D4AD22-F737-4D66-83C6-C4477AD722D1}|Parcial2YPan\\Parcial2YPan.csproj|solutionrelative:parcial2ypan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ecuacion.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Ecuacion.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\Ecuacion.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Ecuacion.cs",
+              "RelativeToolTip": "Parcial2YPan\\Ecuacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:25:09.985Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAgregarYModificarMed.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmAgregarYModificarMed.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\FrmAgregarYModificarMed.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmAgregarYModificarMed.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial2YPan\\FrmAgregarYModificarMed.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:46:21.917Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Medicamento.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\Medicamento.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Medicamento.cs",
+              "RelativeToolTip": "Parcial2YPan\\Medicamento.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAALAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:05:43.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAgregarYModificarMed.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmAgregarYModificarMed.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\FrmAgregarYModificarMed.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmAgregarYModificarMed.cs",
+              "RelativeToolTip": "Parcial2YPan\\FrmAgregarYModificarMed.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:00:10.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCalculadora.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmCalculadora.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\FrmCalculadora.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmCalculadora.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial2YPan\\FrmCalculadora.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:02:54.286Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\FrmMenu.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial2YPan\\FrmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:07:58.037Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmConsultarMed.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmConsultarMed.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\FrmConsultarMed.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmConsultarMed.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial2YPan\\FrmConsultarMed.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:52:45.483Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validaciones.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Validaciones.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\Validaciones.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Validaciones.cs",
+              "RelativeToolTip": "Parcial2YPan\\Validaciones.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAowGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:04:08.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogEventos.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\LogEventos.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\LogEventos.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\LogEventos.cs",
+              "RelativeToolTip": "Parcial2YPan\\LogEventos.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwCAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:59:05.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\ConexionBD.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\ConexionBD.cs",
+              "RelativeToolTip": "Parcial2YPan\\ConexionBD.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:12:38.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmConsultarMed.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmConsultarMed.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\FrmConsultarMed.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmConsultarMed.cs",
+              "RelativeToolTip": "Parcial2YPan\\FrmConsultarMed.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:07:09.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\Program.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Program.cs",
+              "RelativeToolTip": "Parcial2YPan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:04:52.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmCalculadora.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmCalculadora.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\FrmCalculadora.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmCalculadora.cs",
+              "RelativeToolTip": "Parcial2YPan\\FrmCalculadora.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA+wDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:22:09.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Parcial2YPan\\Properties\\Resources.resx",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Properties\\Resources.resx",
+              "RelativeToolTip": "Parcial2YPan\\Properties\\Resources.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwIQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-01T02:10:17.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BotonRedondo.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\ControlesPersonalizados\\BotonRedondo.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\ControlesPersonalizados\\BotonRedondo.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\ControlesPersonalizados\\BotonRedondo.cs",
+              "RelativeToolTip": "Parcial2YPan\\ControlesPersonalizados\\BotonRedondo.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:38:16.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BotonRedondo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\ControlesPersonalizados\\BotonRedondo.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\ControlesPersonalizados\\BotonRedondo.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\ControlesPersonalizados\\BotonRedondo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial2YPan\\ControlesPersonalizados\\BotonRedondo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:38:07.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmAgregarYModificarMed.Designer.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmAgregarYModificarMed.Designer.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\FrmAgregarYModificarMed.Designer.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmAgregarYModificarMed.Designer.cs",
+              "RelativeToolTip": "Parcial2YPan\\FrmAgregarYModificarMed.Designer.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAIAwwFQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:12:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\FrmMenu.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmMenu.cs",
+              "RelativeToolTip": "Parcial2YPan\\FrmMenu.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:24:46.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\nlog.config",
+              "RelativeDocumentMoniker": "Parcial2YPan\\nlog.config",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\nlog.config",
+              "RelativeToolTip": "Parcial2YPan\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T21:09:08.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ToggleButton.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\ControlesPersonalizados\\ToggleButton.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\ControlesPersonalizados\\ToggleButton.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\ControlesPersonalizados\\ToggleButton.cs",
+              "RelativeToolTip": "Parcial2YPan\\ControlesPersonalizados\\ToggleButton.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwIAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:37:26.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmConsultarMed.Designer.cs",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmConsultarMed.Designer.cs",
+              "RelativeDocumentMoniker": "Parcial2YPan\\FrmConsultarMed.Designer.cs",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\FrmConsultarMed.Designer.cs",
+              "RelativeToolTip": "Parcial2YPan\\FrmConsultarMed.Designer.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAIAwwAEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:44:41.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConfigDB.xml",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Config\\ConfigDB.xml",
+              "RelativeDocumentMoniker": "Parcial2YPan\\Config\\ConfigDB.xml",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\Config\\ConfigDB.xml",
+              "RelativeToolTip": "Parcial2YPan\\Config\\ConfigDB.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-27T21:39:22.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\App.config",
+              "RelativeDocumentMoniker": "Parcial2YPan\\App.config",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\App.config",
+              "RelativeToolTip": "Parcial2YPan\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T15:24:14.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\packages.config",
+              "RelativeDocumentMoniker": "Parcial2YPan\\packages.config",
+              "ToolTip": "C:\\CSharp\\Parcial2YPan\\Parcial2YPan\\packages.config",
+              "RelativeToolTip": "Parcial2YPan\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-27T23:02:02.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
